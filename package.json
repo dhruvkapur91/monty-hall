@@ -23,5 +23,23 @@
     "transform": [
       "browserify-shim"
     ]
-  }
+  },
+  "version": "1.0.0",
+  "description": "This is a project forked from a blog https://blog.engineyard.com/2015/client-side-javascript-project-gulp-and-browserify",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvkapur91/car-finder.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruvkapur91/car-finder/issues"
+  },
+  "homepage": "https://github.com/dhruvkapur91/car-finder#readme"
 }
